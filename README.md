@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Python projects**
   - Worked over `simple-schema-validator` pip module
     - [GitHub repository](https://github.com/HackSoftware/simple_schema_validator)
-    - [PiPy](https://pypi.org/project/simple-schema-validator/)
+    - [PyPi](https://pypi.org/project/simple-schema-validator/)
 <!--
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
