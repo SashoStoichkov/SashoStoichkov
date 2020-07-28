@@ -15,10 +15,14 @@
 Here are some ideas to get you started:
 -->
 
+I am part of [@HackSoftware](https://github.com/HackSoftware) and [@KuulaTV](https://github.com/KuulaTV) organisations
+
 - 🔭 I’m currently working on **Python projects**
   - Worked over `simple-schema-validator` pip module
     - [GitHub repository](https://github.com/HackSoftware/simple_schema_validator)
     - [PyPi](https://pypi.org/project/simple-schema-validator/)
+  - Worked over `Django Styleguide` example project
+    - [GitHub repository](https://github.com/HackSoftware/Styleguide-Example)
 <!--
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
