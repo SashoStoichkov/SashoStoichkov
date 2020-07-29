@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 
 I am part of [@HackSoftware](https://github.com/HackSoftware) and [@KuulaTV](https://github.com/KuulaTV) organisations
 
-- 🔭 I’m currently working on **Python projects**
+<p float="left">
+  🔭 I’m currently working on <strong>Python projects</strong>
+  <br>
+</p>
+<!--
   - Worked over [simple-schema-validator](https://github.com/HackSoftware/simple_schema_validator) pip module ( [PyPi](https://pypi.org/project/simple-schema-validator/) )
   - Worked over [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) example [project](https://github.com/HackSoftware/Styleguide-Example)
+-->
 <!--
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
@@ -28,5 +33,5 @@ I am part of [@HackSoftware](https://github.com/HackSoftware) and [@KuulaTV](htt
 -->
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko">
 </h1>
