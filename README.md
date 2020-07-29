@@ -28,6 +28,6 @@ I am part of [@HackSoftware](https://github.com/HackSoftware) and [@KuulaTV](htt
 - ⚡ Fun fact: ...
 -->
 
-<p float="left">
+<h1 align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko">
-</p>
+</h1>
