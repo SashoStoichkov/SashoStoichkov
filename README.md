@@ -12,7 +12,10 @@
 Here are some ideas to get you started:
 -->
 
-I am part of [@HackSoftware](https://github.com/HackSoftware), [@KuulaTV](https://github.com/KuulaTV) and [@EddieJaoudeCommunity](https://github.com/EddieJaoudeCommunity) organisations
+- I'm part of these organisations:
+  - [@HackSoftware](https://github.com/HackSoftware)
+  - [@KuulaTV](https://github.com/KuulaTV)
+  - [@EddieJaoudeCommunity](https://github.com/EddieJaoudeCommunity)
 
 - 🔭 I’m currently working on **Python projects**
   - Worked over [simple-schema-validator](https://github.com/HackSoftware/simple_schema_validator) pip module
