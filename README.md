@@ -12,14 +12,20 @@
 Here are some ideas to get you started:
 -->
 
-- I'm part of these organisations:
-  - [@HackSoftware](https://github.com/HackSoftware)
-  - [@KuulaTV](https://github.com/KuulaTV)
-  - [@EddieJaoudeCommunity](https://github.com/EddieJaoudeCommunity)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko">
 
-- 🔭 I’m currently working on **Python projects**
-  - Worked over [simple-schema-validator](https://github.com/HackSoftware/simple_schema_validator) pip module
-  - Worked over [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) example [project](https://github.com/HackSoftware/Styleguide-Example)
+I'm part of these organisations:
+<ul align="left">
+  <li><a href="https://github.com/HackSoftware">@HackSoftware</a></li>
+  <li><a href="https://github.com/KuulaTV">@KuulaTV</a></li>
+   <li><a href="https://github.com/EddieJaoudeCommunity ">@EddieJaoudeCommunity</a></li>
+</ul>
+
+<ul align="left">
+   <li>🔭 I’m currently working on **Python projects**</li>
+   <li>Worked over <a href="https://github.com/HackSoftware/simple_schema_validator">simple-schema-validator</a> pip module</li>
+   <li>Worked over <a href="https://github.com/HackSoftware/Django-Styleguide">Django Styleguide</a> example <a href="https://github.com/HackSoftware/Styleguide-Example">project</a></li>
+</ul>
 
 <!--
 - 🌱 I’m currently learning ...
@@ -27,7 +33,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via [email](mailto:sashostoichkov@gmail.com); [Facebook]()
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko">
-</h1>
