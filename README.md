@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" width="100%">
   <img src="https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/72473865_3006491372969248_1629124822434840576_o.jpg?_nc_cat=110&_nc_sid=cdbe9c&_nc_ohc=EBeul2N_Y2MAX8Tlyrf&_nc_ht=scontent.fsof3-1.fna&oh=a35376673ab77c26285b1ed704653b86&oe=5F3BFEA9" width="120">
   <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473xpgxrcwo275mhx1r4o2bi5nh8rmhib6d09r7ve2&rid=giphy.gif" width="90">
   Hello There! Alex here
