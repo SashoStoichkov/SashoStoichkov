@@ -1,9 +1,8 @@
 <h1 align="center" width="100%">
-  <img src="https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/72473865_3006491372969248_1629124822434840576_o.jpg?_nc_cat=110&_nc_sid=cdbe9c&_nc_ohc=EBeul2N_Y2MAX8Tlyrf&_nc_ht=scontent.fsof3-1.fna&oh=a35376673ab77c26285b1ed704653b86&oe=5F3BFEA9" width="120">
+<!--   <img src="https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/72473865_3006491372969248_1629124822434840576_o.jpg?_nc_cat=110&_nc_sid=cdbe9c&_nc_ohc=EBeul2N_Y2MAX8Tlyrf&_nc_ht=scontent.fsof3-1.fna&oh=a35376673ab77c26285b1ed704653b86&oe=5F3BFEA9" width="120"> -->
   <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473xpgxrcwo275mhx1r4o2bi5nh8rmhib6d09r7ve2&rid=giphy.gif" width="90">
   Hello There! Alex here
   <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e478b0bym0lgka2xqk5x7cdoc6aipdu9gwm3ogk3kgm&rid=giphy.gif" width="90">
-  <img src="https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/72473865_3006491372969248_1629124822434840576_o.jpg?_nc_cat=110&_nc_sid=cdbe9c&_nc_ohc=EBeul2N_Y2MAX8Tlyrf&_nc_ht=scontent.fsof3-1.fna&oh=a35376673ab77c26285b1ed704653b86&oe=5F3BFEA9" width="120">
 </h1>
 
 <!--
@@ -15,11 +14,12 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko">
 
 I'm part of these organisations:
-<ul align="left">
-  <li><a href="https://github.com/HackSoftware">@HackSoftware</a></li>
-  <li><a href="https://github.com/KuulaTV">@KuulaTV</a></li>
-   <li><a href="https://github.com/EddieJaoudeCommunity ">@EddieJaoudeCommunity</a></li>
-</ul>
+
+<div align="left">
+  <a href="https://github.com/HackSoftware"><img src="https://dev.bg/wp-content/uploads/2016/12/logo-1.png" width="200"></a>
+  <a href="https://github.com/KuulaTV"><img src="https://kuula.tv/images/channel-logo-placeholder.png?w=42&h=42&fit=crop&dpr=2" width="50"></a>
+  <a href="https://github.com/EddieJaoudeCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="50"></a>
+</div>
 
 🔭 I’m currently working on **Python projects**
 <ul align="left">
