@@ -1,8 +1,8 @@
 <h1 align="center" width="100%">
   <img src="https://dev.bg/wp-content/uploads/2016/12/logo-1.png" width="150">
-  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473xpgxrcwo275mhx1r4o2bi5nh8rmhib6d09r7ve2&rid=giphy.gif" width="75">
+  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473xpgxrcwo275mhx1r4o2bi5nh8rmhib6d09r7ve2&rid=giphy.gif" width="50">
   Hello There! Alex here
-  <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e478b0bym0lgka2xqk5x7cdoc6aipdu9gwm3ogk3kgm&rid=giphy.gif" width="75">
+  <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e478b0bym0lgka2xqk5x7cdoc6aipdu9gwm3ogk3kgm&rid=giphy.gif" width="50">
   <img src="https://dev.bg/wp-content/uploads/2016/12/logo-1.png" width="150">
 </h1>
 
