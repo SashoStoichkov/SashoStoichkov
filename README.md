@@ -22,6 +22,8 @@ I'm part of these organisations:
   <a href="https://github.com/EddieJaoudeCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="100"></a>
 </div>
 
+<div><br><br></div>
+
 🔭 I’m currently working on **Python projects**
 <ul align="left">
    <li>Worked over <a href="https://github.com/HackSoftware/simple_schema_validator">simple-schema-validator</a> pip module</li>
