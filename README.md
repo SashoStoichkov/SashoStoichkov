@@ -34,6 +34,13 @@ Here are some ideas to get you started:
    <li>Worked over <a href="https://github.com/HackSoftware/Django-Styleguide">Django Styleguide</a> example <a href="https://github.com/HackSoftware/Styleguide-Example">project</a></li>
 </ul>
 
+---
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashoStoichkov&count_private=true&theme=merko" />
+</p>
+
 <!--
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
