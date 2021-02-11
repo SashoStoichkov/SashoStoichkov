@@ -17,17 +17,17 @@
 Here are some ideas to get you started:
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko"> -->
 
 I'm part of these organisations:
 
-<div align="left">
+<div align="right">
   <a href="https://github.com/HackSoftware"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="100"></a>
   <a href="https://github.com/BookShareBG"><img src="https://avatars1.githubusercontent.com/u/73662810?s=200&v=4" width="100"></a>
   <a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="100"></a>
 </div>
 
-<div><br><br></div>
+<!-- <div><br><br></div> -->
 
 🔭 I’m currently working on **Python projects**
 <ul align="left">
