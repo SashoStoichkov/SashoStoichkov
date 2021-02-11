@@ -11,32 +11,21 @@
   
 </h1>
 
-<!--
-**SashoStoichkov/SashoStoichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm part of these organisations:
 
-Here are some ideas to get you started:
--->
-
-<p float="left" align="left">🔭 I’m currently working on <strong>Python projects</strong></p>
-<p float="right" align="right">I'm part of these organisations:</p>
-
-<!-- <div>
-  <div>
-    <a href="https://github.com/HackSoftware"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="100"></a>
-    <a href="https://github.com/BookShareBG"><img src="https://avatars1.githubusercontent.com/u/73662810?s=200&v=4" width="100"></a>
-    <a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="100"></a>
-  </div>
-
-  <div><br><br></div>
-
-  <div style="float: left">
-    <ul>
-       <li>Worked over <a href="https://github.com/HackSoftware/simple_schema_validator">simple-schema-validator</a> pip module</li>
-       <li>Worked over <a href="https://github.com/HackSoftware/Django-Styleguide">Django Styleguide</a> example <a href="https://github.com/HackSoftware/Styleguide-Example">project</a></li>
-    </ul>
-  </div>
+<div align="left">
+  <a href="https://github.com/HackSoftware"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="100"></a>
+  <a href="https://github.com/BookShareBG"><img src="https://avatars1.githubusercontent.com/u/73662810?s=200&v=4" width="100"></a>
+  <a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="100"></a>
 </div>
--->
+
+<div><br><br></div>
+
+🔭 I’m currently working on **Python projects**
+<ul align="left">
+   <li>Worked over <a href="https://github.com/HackSoftware/simple_schema_validator">simple-schema-validator</a> pip module</li>
+   <li>Worked over <a href="https://github.com/HackSoftware/Django-Styleguide">Django Styleguide</a> example <a href="https://github.com/HackSoftware/Styleguide-Example">project</a></li>
+</ul>
 
 ---
 
@@ -46,6 +35,9 @@ Here are some ideas to get you started:
 </p>
 
 <!--
+**SashoStoichkov/SashoStoichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: via [email](mailto:sashostoichkov@gmail.com); [Facebook]()
