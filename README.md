@@ -32,6 +32,7 @@ I'm part of these organisations:
 <p align="center">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashoStoichkov&count_private=true&theme=merko" />
+  <img width="92%" src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true">
 </p>
 
 <!--
