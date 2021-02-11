@@ -17,10 +17,8 @@
 Here are some ideas to get you started:
 -->
 
-<div>
-  <p float="left" align="left">🔭 I’m currently working on <strong>Python projects</strong></p>
-  <p float="right" align="right">I'm part of these organisations:</p>
-</div>
+<p float="left" align="left">🔭 I’m currently working on <strong>Python projects</strong></p>
+<p float="right" align="right">I'm part of these organisations:</p>
 
 <!-- <div>
   <div>
