@@ -6,7 +6,7 @@
   <img src="./GH Cover.gif">
 </h1>
 
-<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashoStoichkov&count_private=true&theme=merko" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashoStoichkov&count_private=true&theme=merko&layout=compact" />
 
 I'm part of these organisations:
 
