@@ -17,9 +17,9 @@
 Here are some ideas to get you started:
 -->
 
-<div>
-  <p style="float: right" align="right">I'm part of these organisations:</p>
-  <p style="float: left" align="left">🔭 I’m currently working on <strong>Python projects</strong></p>
+<div style="text-align: left;">
+  <p>🔭 I’m currently working on <strong>Python projects</strong></p>
+  <span style="float:right;">I'm part of these organisations:</span>
 </div>
 
 <!-- <div>
