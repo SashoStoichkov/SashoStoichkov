@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&count_private=true&theme=merko"> -->
 
 <div>
-  <div align="right">
+  <div style="float: right">
     <p>I'm part of these organisations:</p>
     <a href="https://github.com/HackSoftware"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="100"></a>
     <a href="https://github.com/BookShareBG"><img src="https://avatars1.githubusercontent.com/u/73662810?s=200&v=4" width="100"></a>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   <div><br><br></div>
 
-  <div align="left">
+  <div style="float: left">
     <p>🔭 I’m currently working on <strong>Python projects</strong></p>
     <ul>
        <li>Worked over <a href="https://github.com/HackSoftware/simple_schema_validator">simple-schema-validator</a> pip module</li>
