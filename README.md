@@ -1,15 +1,12 @@
+<!--
+**SashoStoichkov/SashoStoichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <h1 align="center" width="100%">
-  <!--
-  <img src="https://dev.bg/wp-content/uploads/2016/12/logo-1.png" width="150">
-  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473xpgxrcwo275mhx1r4o2bi5nh8rmhib6d09r7ve2&rid=giphy.gif" width="50">
-  Hello There! Alex here
-  <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e478b0bym0lgka2xqk5x7cdoc6aipdu9gwm3ogk3kgm&rid=giphy.gif" width="50">
-  <img src="https://dev.bg/wp-content/uploads/2016/12/logo-1.png" width="150">
-  -->
-  
   <img src="./GH Cover.gif">
-  
 </h1>
+
+<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashoStoichkov&count_private=true&theme=merko" />
 
 I'm part of these organisations:
 
@@ -30,17 +27,6 @@ I'm part of these organisations:
 ---
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashoStoichkov&count_private=true&theme=merko" />
-  <img width="92%" src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
+  <img width="45%" src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true" />
 </p>
-
-<!--
-**SashoStoichkov/SashoStoichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: via [email](mailto:sashostoichkov@gmail.com); [Facebook]()
-- ⚡ Fun fact: ...
--->
