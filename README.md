@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="100"></a>
 </div>
 
-<!-- <div><br><br></div> -->
+<div><br><br></div>
 
 🔭 I’m currently working on **Python projects**
 <ul align="left">
