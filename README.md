@@ -6,9 +6,9 @@
   <img src="./GH Cover.gif">
 </h1>
 
+<!--
 <img align="right" width="65%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
-
-**I'm part of these organisations:**
+-->
 
 <p align="center">
   <p width="48%">
