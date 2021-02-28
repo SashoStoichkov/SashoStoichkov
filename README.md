@@ -10,11 +10,11 @@
 
 **I'm part of these organisations:**
 
-[![](https://avatars3.githubusercontent.com/u/11139128?s=100&v=4)](https://github.com/HackSoftware)
-[![](https://avatars3.githubusercontent.com/u/66388388?s=100&v=4)](https://github.com/EddieHubCommunity)
+[![](https://avatars3.githubusercontent.com/u/11139128?s=150&v=4)](https://github.com/HackSoftware)
+[![](https://avatars3.githubusercontent.com/u/66388388?s=150&v=4)](https://github.com/EddieHubCommunity)
 <br>
-[![](https://avatars3.githubusercontent.com/u/73662810?s=100&v=4)](https://github.com/BookShareBG)
-[![](https://avatars3.githubusercontent.com/u/79784426?s=100&v=4)](https://github.com/SashoStoichkovArchive)
+[![](https://avatars3.githubusercontent.com/u/73662810?s=150&v=4)](https://github.com/BookShareBG)
+[![](https://avatars3.githubusercontent.com/u/79784426?s=150&v=4)](https://github.com/SashoStoichkovArchive)
 
 <div><br><br></div>
 
