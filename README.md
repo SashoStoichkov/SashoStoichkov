@@ -6,12 +6,17 @@
   <img src="./GH Cover.gif">
 </h1>
 
+<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
+
 **I'm part of these organisations:**
 
-<a href="https://github.com/HackSoftware" align="left"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="10%"></a>
+[![](https://avatars1.githubusercontent.com/u/11139128?s=100&v=4)](https://github.com/HackSoftware)
+[![](https://avatars1.githubusercontent.com/u/73662810?s=100&v=4)](https://github.com/BookShareBG)
+[![](https://avatars3.githubusercontent.com/u/66388388?s=100&v=4)](https://github.com/EddieHubCommunity)
+
+<!-- <a href="https://github.com/HackSoftware" align="left"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="10%"></a>
 <a href="https://github.com/BookShareBG" align="left"><img src="https://avatars1.githubusercontent.com/u/73662810?s=200&v=4" width="10%"></a>
-<a href="https://github.com/EddieHubCommunity" align="left"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="10%"></a>
-<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
+<a href="https://github.com/EddieHubCommunity" align="left"><img src="https://avatars3.githubusercontent.com/u/66388388?s=200&v=4" width="10%"></a> -->
 
 <!-- <div align="left" width="40%">
   <a href="https://github.com/HackSoftware"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="30%"></a>
