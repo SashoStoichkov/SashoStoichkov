@@ -6,13 +6,11 @@
   <img src="./GH Cover.gif">
 </h1>
 
-<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
-
 **I'm part of these organisations:**
 
 [![](https://avatars3.githubusercontent.com/u/11139128?s=150&v=4)](https://github.com/HackSoftware)
 [![](https://avatars3.githubusercontent.com/u/66388388?s=150&v=4)](https://github.com/EddieHubCommunity)
-<br>
+<br><img align="right" width="65%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
 [![](https://avatars3.githubusercontent.com/u/73662810?s=150&v=4)](https://github.com/BookShareBG)
 [![](https://avatars3.githubusercontent.com/u/79784426?s=150&v=4)](https://github.com/SashoStoichkovArchive)
 
