@@ -8,7 +8,7 @@
 
 <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
 
-I'm part of these organisations:
+**I'm part of these organisations:**
 
 <div align="left">
   <a href="https://github.com/HackSoftware"><img src="https://avatars1.githubusercontent.com/u/11139128?s=200&v=4" width="100"></a>
@@ -18,11 +18,13 @@ I'm part of these organisations:
 
 <div><br><br></div>
 
+<!--
 🔭 I’m currently working on **Python projects**
 <ul align="left">
    <li>Worked over <a href="https://github.com/HackSoftware/simple_schema_validator">simple-schema-validator</a> pip module</li>
    <li>Worked over <a href="https://github.com/HackSoftware/Django-Styleguide">Django Styleguide</a> example <a href="https://github.com/HackSoftware/Styleguide-Example">project</a></li>
 </ul>
+-->
 
 ---
 
