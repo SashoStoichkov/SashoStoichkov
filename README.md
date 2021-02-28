@@ -6,7 +6,7 @@
   <img src="./GH Cover.gif">
 </h1>
 
-<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashoStoichkov&count_private=true&theme=merko&layout=compact" />
+<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
 
 I'm part of these organisations:
 
@@ -27,7 +27,6 @@ I'm part of these organisations:
 ---
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
-  <img width="51%" src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true" />
+  <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true" />
   <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=SashoStoichkov&show_icons=true&locale=en&layout=demo&theme=merko" />
 </p>
