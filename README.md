@@ -10,11 +10,28 @@
 
 **I'm part of these organisations:**
 
+<p align="center">
+  <p width="48%">
+    <strong>I'm part of these organisations:</strong>
+    <a href="https://github.com/HackSoftware"><img src="https://avatars3.githubusercontent.com/u/11139128?s=150&v=4" /></a>
+    <a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" /></a>
+    <br>
+    <a href="https://github.com/BookShareBG"><img src="https://avatars3.githubusercontent.com/u/73662810?s=150&v=4" /></a>
+    <a href="https://github.com/SashoStoichkovArchive"><img src="https://avatars3.githubusercontent.com/u/79784426?s=150&v=4" /></a>
+  </p>
+  <p width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
+  </p>
+</p>
+
+
+<!--
 [![](https://avatars3.githubusercontent.com/u/11139128?s=150&v=4)](https://github.com/HackSoftware)
 [![](https://avatars3.githubusercontent.com/u/66388388?s=150&v=4)](https://github.com/EddieHubCommunity)
 <br>
 [![](https://avatars3.githubusercontent.com/u/73662810?s=150&v=4)](https://github.com/BookShareBG)
 [![](https://avatars3.githubusercontent.com/u/79784426?s=150&v=4)](https://github.com/SashoStoichkovArchive)
+-->
 
 <div><br><br></div>
 
