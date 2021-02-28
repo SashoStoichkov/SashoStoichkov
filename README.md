@@ -22,7 +22,7 @@
         </table>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&&hide_border=true&show_icons=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&&hide_border=true&show_icons=true&theme=merko" />
       </td>
     </tr>
   </table>
