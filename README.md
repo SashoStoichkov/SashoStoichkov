@@ -11,12 +11,28 @@
       <strong>I'm part of these organisations:</strong><br>
       <table>
         <tr>
-          <td align="center"><a href="https://github.com/HackSoftware"><img src="https://avatars3.githubusercontent.com/u/11139128?s=150&v=4" /></a></td>
-          <td align="center"><a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" /></a></td>
+          <td align="center">
+            <a href="https://github.com/HackSoftware">
+              <img src="https://avatars3.githubusercontent.com/u/11139128?s=150&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
         </tr>
         <tr>
-          <td align="center"><a href="https://github.com/BookShareBG"><img src="https://avatars3.githubusercontent.com/u/73662810?s=150&v=4" /></a></td>
-          <td align="center"><a href="https://github.com/SashoStoichkovArchive"><img src="https://avatars3.githubusercontent.com/u/79784426?s=150&v=4" /></a></td>
+          <td align="center">
+            <a href="https://github.com/BookShareBG">
+              <img src="https://avatars3.githubusercontent.com/u/73662810?s=150&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/SashoStoichkovArchive">
+              <img src="https://avatars3.githubusercontent.com/u/79784426?s=150&v=4" />
+            </a>
+          </td>
         </tr>
       </table>
     </td>
