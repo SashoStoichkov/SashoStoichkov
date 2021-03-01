@@ -5,11 +5,11 @@
   <img src="./GH Cover.gif">
 </h1>
 
-<table align="center" cellspacing="0" cellpadding="0">
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <strong>I'm part of these organisations:</strong><br>
-      <table border="none">
+      <table>
         <tr>
           <td align="center"><a href="https://github.com/HackSoftware"><img src="https://avatars3.githubusercontent.com/u/11139128?s=150&v=4" /></a></td>
           <td align="center"><a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" /></a></td>
