@@ -37,8 +37,8 @@
       </table>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko" />
-      <img src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko&hide_border=true" />
+      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SashoStoichkov&show_icons=true&locale=en&layout=demo&theme=merko" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SashoStoichkov&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
