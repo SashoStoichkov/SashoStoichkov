@@ -5,7 +5,7 @@
   <img src="./GH Cover.gif">
 </h1>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <strong>I'm part of these organisations:</strong><br>
@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=SashoStoichkov&show_icons=true&locale=en&layout=demo&theme=merko" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SashoStoichkov&show_icons=true&locale=en&layout=demo&theme=merko" />
 </p>
