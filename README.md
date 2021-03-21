@@ -2,7 +2,7 @@
 **SashoStoichkov/SashoStoichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center" width="100%">
-  <img src="./GH Cover v.2.gif">
+  <a href="https://www.linkedin.com/in/sashostoichkov/"><img src="./GH Cover v.2.gif"></a>
 </h1>
 
 <table align="center" width="100%">
