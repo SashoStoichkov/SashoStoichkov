@@ -29,8 +29,8 @@
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/SashoStoichkovArchive">
-              <img src="https://avatars3.githubusercontent.com/u/79784426?s=150&v=4" />
+            <a href="https://github.com/SurveyMeNow">
+              <img src="https://avatars3.githubusercontent.com/u/81114374?s=150&v=4" />
             </a>
           </td>
         </tr>
