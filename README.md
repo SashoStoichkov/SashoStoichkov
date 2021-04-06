@@ -29,8 +29,8 @@
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/SurveyMeNow">
-              <img src="https://avatars3.githubusercontent.com/u/81114374?s=150&v=4" />
+            <a href="https://github.com/SS-Discord-Bot">
+              <img src="https://avatars3.githubusercontent.com/u/82047905?s=150&v=4" />
             </a>
           </td>
         </tr>
