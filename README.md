@@ -29,7 +29,7 @@
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/SS-Discord-Bot">
+            <a href="https://github.com/SS-Community">
               <img src="https://avatars3.githubusercontent.com/u/82047905?s=150&v=4" />
             </a>
           </td>
