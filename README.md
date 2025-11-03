@@ -8,33 +8,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong>I'm part of these organisations:</strong><br>
-      <table>
-        <tr>
-          <td align="center">
-            <a href="https://github.com/HackSoftware">
-              <img src="https://avatars3.githubusercontent.com/u/11139128?s=150&v=4" />
-            </a>
-            <a href="https://github.com/EddieHubCommunity">
-              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://github.com/SS-Community">
-              <img src="https://avatars3.githubusercontent.com/u/82047905?s=150&v=4" />
-            </a>
-            <a href="https://github.com/SashoStoichkovArchive">
-              <img src="https://avatars.githubusercontent.com/u/79784426?s=150&v=4" />
-            </a>
-          </td>
-        </tr>
-      </table>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SashoStoichkov&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
     </td>
     <td align="center">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SashoStoichkov&show_icons=true&theme=merko&hide_border=true" />
-      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SashoStoichkov&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -48,7 +25,3 @@
 -->
 
 ---
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SashoStoichkov&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
